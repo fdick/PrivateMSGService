@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="PrivateMSGService.csproj" />
+  <Project Path="../PrivateMSGService.Application/PrivateMSGService.Application.csproj" Id="4d6c6ee2-5021-4266-9577-e2d7686ba6f3" />
+  <Project Path="../PrivateMSGService.Core/PrivateMSGService.Core.csproj" Id="0bd3dcd9-7750-4431-8b24-20042dd1843f" />
+  <Project Path="../PrivateMSGService.DataAccess/PrivateMSGService.DataAccess.csproj" Id="0b63f2fb-5a03-4dd7-a581-43c6a35e0b92" />
+  <Project Path="D:/ProjectsASP/Forum_PET/PrivateMSGService/PrivateMSGService/PrivateMSGService.API.csproj" />
 </Solution>

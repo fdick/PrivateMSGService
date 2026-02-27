@@ -1,12 +1,262 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30374425-CD43-0F65-9A69-54FE52362041}|PrivateMSGService.API.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice\\controllers\\privatemessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30374425-CD43-0F65-9A69-54FE52362041}|PrivateMSGService.API.csproj|solutionrelative:controllers\\privatemessagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6C6EE2-5021-4266-9577-E2D7686BA6F3}|..\\PrivateMSGService.Application\\PrivateMSGService.Application.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.application\\services\\privatemessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\abstractions\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6C6EE2-5021-4266-9577-E2D7686BA6F3}|..\\PrivateMSGService.Application\\PrivateMSGService.Application.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\abstractions\\iprivatemessagesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\abstractions\\iprivatemessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\abstractions\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63F2FB-5A03-4DD7-A581-43C6A35E0B92}|..\\PrivateMSGService.DataAccess\\PrivateMSGService.DataAccess.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.dataaccess\\repositories\\privatemessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63F2FB-5A03-4DD7-A581-43C6A35E0B92}|..\\PrivateMSGService.DataAccess\\PrivateMSGService.DataAccess.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\models\\privatemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63F2FB-5A03-4DD7-A581-43C6A35E0B92}|..\\PrivateMSGService.DataAccess\\PrivateMSGService.DataAccess.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.dataaccess\\privatemsgdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63F2FB-5A03-4DD7-A581-43C6A35E0B92}|..\\PrivateMSGService.DataAccess\\PrivateMSGService.DataAccess.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B63F2FB-5A03-4DD7-A581-43C6A35E0B92}|..\\PrivateMSGService.DataAccess\\PrivateMSGService.DataAccess.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.dataaccess\\entities\\privatemessageentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD3DCD9-7750-4431-8B24-20042DD1843F}|..\\PrivateMSGService.Core\\PrivateMSGService.Core.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30374425-CD43-0F65-9A69-54FE52362041}|PrivateMSGService.API.csproj|d:\\projectsasp\\forum_pet\\privatemsgservice\\privatemsgservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30374425-CD43-0F65-9A69-54FE52362041}|PrivateMSGService.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrivateMessagesController.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService\\Controllers\\PrivateMessagesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrivateMessagesController.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService\\Controllers\\PrivateMessagesController.cs",
+              "RelativeToolTip": "Controllers\\PrivateMessagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:31:34.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IUsersService.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Abstractions\\IUsersService.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IUsersService.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Abstractions\\IUsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:30:54.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrivateMessagesService.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IPrivateMessagesService.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Abstractions\\IPrivateMessagesService.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IPrivateMessagesService.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Abstractions\\IPrivateMessagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:30:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Application\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Application\\Services\\UsersService.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Application\\Services\\UsersService.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Application\\Services\\UsersService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:28:32.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrivateMessagesService.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Application\\Services\\PrivateMessagesService.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Application\\Services\\PrivateMessagesService.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Application\\Services\\PrivateMessagesService.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Application\\Services\\PrivateMessagesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:23:11.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Abstractions\\IUserRepository.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IUserRepository.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Abstractions\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:20:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrivateMessageRepository.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IPrivateMessageRepository.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Abstractions\\IPrivateMessageRepository.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Abstractions\\IPrivateMessageRepository.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Abstractions\\IPrivateMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:20:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T05:15:08.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrivateMessageRepository.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Repositories\\PrivateMessageRepository.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.DataAccess\\Repositories\\PrivateMessageRepository.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Repositories\\PrivateMessageRepository.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.DataAccess\\Repositories\\PrivateMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:21:32.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrivateMSGDbContext.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\PrivateMSGDbContext.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.DataAccess\\PrivateMSGDbContext.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\PrivateMSGDbContext.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.DataAccess\\PrivateMSGDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:16:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.DataAccess\\Entities\\UserEntity.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.DataAccess\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:09:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Models\\User.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Models\\User.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T04:07:40.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrivateMessage.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Models\\PrivateMessage.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.Core\\Models\\PrivateMessage.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.Core\\Models\\PrivateMessage.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.Core\\Models\\PrivateMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:51:34.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrivateMessageEntity.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Entities\\PrivateMessageEntity.cs",
+              "RelativeDocumentMoniker": "..\\PrivateMSGService.DataAccess\\Entities\\PrivateMessageEntity.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService.DataAccess\\Entities\\PrivateMessageEntity.cs",
+              "RelativeToolTip": "..\\PrivateMSGService.DataAccess\\Entities\\PrivateMessageEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T03:48:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjectsASP\\Forum_PET\\PrivateMSGService\\PrivateMSGService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:17:55.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

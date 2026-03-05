@@ -1,4 +1,3 @@
-# PrivateMSGService
 Microservice for private messaging
 
-Stack: SignalR, postgres, rabbitMQ.MassTransit, docker
+**Stack:** REST, SignalR, EF Core, postgres, rabbitMQ.MassTransit, docker
